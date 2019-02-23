@@ -6,6 +6,3 @@ def search(int_list, target):
             return -1
 
     return i
-
-
-print(search([8, 32, 109, 202], 202))
