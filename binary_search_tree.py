@@ -30,4 +30,3 @@ class Node:
           return None
         else:
           return self.left.search(node)
-
