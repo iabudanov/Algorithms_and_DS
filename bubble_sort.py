@@ -8,5 +8,3 @@ def bubble_sort(int_list):
         print(int_list)
 
     print(int_list)
-
-bubble_sort([2, 1, 5, 6, 7, 2, 21, 2, 5])
