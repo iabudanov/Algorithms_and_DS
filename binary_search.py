@@ -17,5 +17,3 @@ def binary_search(int_list, target):
 
         if start_index > end_index:
             return None
-
-print(binary_search([1, 2, 5, 8, 90, 123, 145], 146))
